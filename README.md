@@ -21,7 +21,7 @@
 
 ### Estou desenvolvendo:
 <p style="color:red">Iniciação Científica baseada em um projeto educacional com a ferramenta Power BI</p>
-<img src="https://media.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif"/>
+<img src="https://media.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width="450px"/>
 <!--
 **brunaalves2/brunaalves2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
