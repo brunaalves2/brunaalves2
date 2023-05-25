@@ -1,7 +1,7 @@
 ### Hello World!! Me chamo Bruna Alves 🐱‍🚀
 
 ### Estou aprendendo:
-<div style="display:inline-block;"><br/>
+<div style="display:inline-block"><br/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -20,8 +20,7 @@
 </div>
 
 ### Estou desenvolvendo:
-<p style="color:red;">Iniciação Científica baseada num projeto em Power BI</p>
-
+<p style="color:red">Iniciação Científica baseada em um projeto educacional com a ferramenta Power BI</p>
 <!--
 **brunaalves2/brunaalves2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
